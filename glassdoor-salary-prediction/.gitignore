@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+# NOTE: models/model.pkl IS committed on purpose (Streamlit Cloud needs it)
